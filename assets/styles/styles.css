@@ -165,7 +165,7 @@ header .navItems .navItem a:hover {
 
 #about {
   height: 60vh;
-  width: 100vw;
+  width: 100%;
   border-top: var(--lightColor) 10px solid;
 }
 
