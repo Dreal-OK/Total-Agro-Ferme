@@ -1,0 +1,77 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+header #logo {
+  margin-bottom: 0;
+}
+
+header #logo h1 {
+  font-size: 1.3rem;
+}
+
+header #nav {
+  margin-top: 1rem;
+}
+
+
+header #nav .navItems {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+header #nav .navItems .navItem {
+  margin-right: 0;
+  margin: .75rem 0;
+}
+
+header #nav .navItems .navItem a {
+  padding: .5rem;
+}
+
+#showcase .showcaseContent {
+  padding: 4rem;
+  line-height: 1.7;
+}
+
+
+/* About */
+
+#about {
+  height: 80vh;
+}
+
+#about .aboutContent .top {
+  padding: 1rem;
+}
+
+#about .aboutContent .bottom {
+  padding: 2rem;
+}
+
+/* product */
+
+#product {
+  height: 160vh;
+  margin-bottom: 2rem;
+}
+
+#product .intro h1 {
+  padding-top: 2rem;
+}
+
+#contact  {
+  height: 80vh;
+  margin-top: 1rem;
+}
+
+footer h3 {
+   padding-top: .75rem ;
+}
+
+
